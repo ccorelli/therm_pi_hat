@@ -170,7 +170,7 @@
 
   (footprint "Package_SO:TSSOP-10_3x3mm_P0.5mm" (layer "F.Cu")
     (tedit 5F3E4A84) (tstamp 12926b27-bd33-4fea-b20e-cdddeda15409)
-    (at 105.64 117.75)
+    (at 58.42 71.12)
     (descr "TSSOP10: plastic thin shrink small outline package; 10 leads; body width 3 mm; (see NXP SSOP-TSSOP-VSO-REFLOW.pdf and sot552-1_po.pdf)")
     (tags "SSOP 0.5")
     (property "Sheetfile" "therm_pi_hat.kicad_sch")
@@ -786,7 +786,7 @@
 
   (footprint "Connector_Audio:Jack_3.5mm_CUI_SJ1-3533NG_Horizontal" (layer "F.Cu")
     (tedit 5BAD3514) (tstamp 4439e203-c029-4c47-9bba-4938222acf0c)
-    (at 87.62 65.94 -90)
+    (at 86.36 76.2 -90)
     (descr "TRS 3.5mm, horizontal, through-hole, https://www.cui.com/product/resource/sj1-353xng.pdf")
     (tags "TRS audio jack stereo horizontal")
     (property "Sheetfile" "therm_pi_hat.kicad_sch")
@@ -1137,7 +1137,7 @@
 
   (footprint "Connector_Audio:Jack_3.5mm_CUI_SJ1-3533NG_Horizontal" (layer "F.Cu")
     (tedit 5BAD3514) (tstamp 68bc7272-14f0-4cb0-9edd-b803f812ed18)
-    (at 87.62 55.78 -90)
+    (at 86.36 55.78 -90)
     (descr "TRS 3.5mm, horizontal, through-hole, https://www.cui.com/product/resource/sj1-353xng.pdf")
     (tags "TRS audio jack stereo horizontal")
     (property "Sheetfile" "therm_pi_hat.kicad_sch")
@@ -1578,7 +1578,7 @@
 
   (footprint "Connector_Audio:Jack_3.5mm_CUI_SJ1-3533NG_Horizontal" (layer "F.Cu")
     (tedit 5BAD3514) (tstamp 94980176-fde0-4bc9-891b-c36e62446512)
-    (at 87.62 76.1 -90)
+    (at 86.36 66.04 -90)
     (descr "TRS 3.5mm, horizontal, through-hole, https://www.cui.com/product/resource/sj1-353xng.pdf")
     (tags "TRS audio jack stereo horizontal")
     (property "Sheetfile" "therm_pi_hat.kicad_sch")
@@ -1864,7 +1864,7 @@
 
   (footprint "Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P12.70mm_Horizontal" (layer "F.Cu")
     (tedit 5AE5139B) (tstamp b509c94f-34b8-47b9-9b6b-91bb0f3cac3e)
-    (at 169.49 70.1)
+    (at 54.61 55.88)
     (descr "Resistor, Axial_DIN0411 series, Axial, Horizontal, pin pitch=12.7mm, 1W, length*diameter=9.9*3.6mm^2")
     (tags "Resistor Axial_DIN0411 series Axial Horizontal pin pitch 12.7mm 1W length 9.9mm diameter 3.6mm")
     (property "Sheetfile" "therm_pi_hat.kicad_sch")
@@ -2456,7 +2456,7 @@
 
   (footprint "Connector_Audio:Jack_3.5mm_CUI_SJ1-3533NG_Horizontal" (layer "F.Cu")
     (tedit 5BAD3514) (tstamp fca42306-fadc-40b1-9b7d-52554e50549c)
-    (at 87.62 86.26 -90)
+    (at 86.36 86.26 -90)
     (descr "TRS 3.5mm, horizontal, through-hole, https://www.cui.com/product/resource/sj1-353xng.pdf")
     (tags "TRS audio jack stereo horizontal")
     (property "Sheetfile" "therm_pi_hat.kicad_sch")
